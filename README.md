@@ -1,7 +1,7 @@
-# Livro de Receitas :chicken:
+# Recipe Book :closed_book:
 
-Olá! Bem-vindo/a ao meu livro de receitas.
+Hey, everyone. Welcome to my delicious recipes.
 
-
+You'll definitely love all my the recipes. 
 
 

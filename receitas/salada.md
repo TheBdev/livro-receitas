@@ -1,27 +1,31 @@
-# Salada de Frutas
+# Fruit Salad  :green_salad:
 
-- 1 maça
+**Fruits and Amount**
 
-- 2 bananas
+- 1 lb. strawberries, hulled and quartered
 
-- 1/2 mamão
+- 6 oz. blueberries
 
-- 1 pera
+- 6 oz. raspberries
 
-- 10 uvas
+- 3 kiwis, peeled and sliced
 
+- 1 orange, peeled and wedges cut in half
 
+- 2 apples, peeled and chopped
 
+- 1 mango, peeled and chopped
 
+- 2 c. grapes
 
+## For the dressing
 
+- 1/4 c. honey
 
+- 1/4 c. freshly squeezed orange juice
 
+- Zest of 1 lemon
 
+### Directions
 
-
-
-
-
-
-
+In a small bowl whisk together honey, orange juice, and lemon zest. Add fruit to a large bowl and pour over dressing, tossing gently to combine. Chill until ready to serve.
